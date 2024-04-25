@@ -46,6 +46,4 @@ docker build -t displayinfo .
 docker run -d -p 8080:8080 displayinfo
 
 
-The application will be accessible at `http://localhost:8080/displayinfo`.
-
-
+The application will be accessible at `http://localhost:8080/displayinfo`
